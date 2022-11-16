@@ -15,6 +15,7 @@ emosewA eB esaelP
 2. [Solusi Kuis 4 2018](https://mokraj.github.io/mokraj/Solusi_Kuis4.pdf)
 3. [Kuis Jarkom Merge](https://mokraj.github.io/mokraj/KuisJarkomMerge.pdf)
 4. [Textbook : Computer Networks James Kurose](https://mokraj.github.io/mokraj/textbook.pdf)
+5. [VLSM Subnetting Calculator](http://www.vlsmcalc.com/)
 
 ## Slides
 1. [W01](https://mokraj.github.io/mokraj/W01-Jarkom.pdf)
