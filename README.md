@@ -9,6 +9,7 @@ emosewA eB esaelP
 6. [Kuis 6](https://mokraj.github.io/mokraj/Kuis6.pdf)
 7. [Kuis 7 & 8](https://mokraj.github.io/mokraj/Kuis7&8.pdf)
 8. [Quiz Compilation](https://mokraj.github.io/mokraj/quizcompilation.pdf)
+9. [Q04](https://mokraj.github.io/mokraj/Q04.pdf)
 
 ## Others
 1. [Solusi Kuis 1 2019](https://mokraj.github.io/mokraj/Kuis-1-Jarkom-A-2019.pdf)
