@@ -12,3 +12,16 @@
 ## Others
 1. [Solusi Kuis 1 2019](https://mokraj.github.io/mokraj/Kuis-1-Jarkom-A-2019.pdf)
 2. [Solusi Kuis 4 2018](https://mokraj.github.io/mokraj/Solusi_Kuis4.pdf)
+
+## Slides
+1. [W01](https://mokraj.github.io/mokraj/W01-Jarkom.pdf)
+2. [W02](https://mokraj.github.io/mokraj/W02-Jarkom.pdf)
+3. [W03](https://mokraj.github.io/mokraj/W03-Jarkom.pdf)
+4. [W04](https://mokraj.github.io/mokraj/W04-Jarkom.pdf)
+5. [W05](https://mokraj.github.io/mokraj/W05-Jarkom.pdf)
+6. [W06](https://mokraj.github.io/mokraj/W06-Jarkom.pdf)
+7. [W07: Intro to Network Layer & IP Addressing](https://mokraj.github.io/mokraj/W07-Jarkom.pdf)
+8. [W08: NAT, SDN & Routing Algorithms](https://mokraj.github.io/mokraj/W08-Jarkom.pdf)
+9. [W09: Routing & SDN Controller](https://mokraj.github.io/mokraj/W09-Jarkom.pdf)
+10. [W10](https://mokraj.github.io/mokraj/W10-Jarkom.pdf)
+10. [W11](https://mokraj.github.io/mokraj/W11-Jarkom.pdf)
