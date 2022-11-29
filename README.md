@@ -29,5 +29,5 @@ emosewA eB esaelP
 7. [W07: Intro to Network Layer & IP Addressing](https://mokraj.github.io/mokraj/W07-Jarkom.pdf)
 8. [W08: NAT, SDN & Routing Algorithms](https://mokraj.github.io/mokraj/W08-Jarkom.pdf)
 9. [W09: Routing & SDN Controller](https://mokraj.github.io/mokraj/W09-Jarkom.pdf)
-10. [W10](https://mokraj.github.io/mokraj/W10-Jarkom.pdf)
-10. [W11](https://mokraj.github.io/mokraj/W11-Jarkom.pdf)
+10. [W10 : Intro to Link Layer, CRC & MAC Address [Q05]](https://mokraj.github.io/mokraj/W10-Jarkom.pdf)
+10. [W11 : Ethernet, VLAN & Full Layer Review [Q05]](https://mokraj.github.io/mokraj/W11-Jarkom.pdf)
