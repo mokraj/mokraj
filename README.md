@@ -10,6 +10,7 @@ emosewA eB esaelP
 7. [Kuis 7 & 8](https://mokraj.github.io/mokraj/Kuis7&8.pdf)
 8. [Quiz Compilation](https://mokraj.github.io/mokraj/quizcompilation.pdf)
 9. [Q04](https://mokraj.github.io/mokraj/Q04.pdf)
+10. [Q05 2022](https://mokraj.github.io/mokraj/Quiz05.pdf)
 
 ## Others
 1. [Solusi Kuis 1 2019](https://mokraj.github.io/mokraj/Kuis-1-Jarkom-A-2019.pdf)
@@ -18,7 +19,7 @@ emosewA eB esaelP
 4. [Textbook : Computer Networks James Kurose](https://mokraj.github.io/mokraj/textbook.pdf)
 5. [VLSM Subnetting Calculator (vlsmcalc)](http://www.vlsmcalc.com/)
 6. [Subnetting Calculator (https://subnettingpractice.com/vlsm.html)](https://subnettingpractice.com/vlsm.html)
-7. [Q05 2022](https://mokraj.github.io/mokraj/Quiz05.pdf)
+
 
 ## Slides
 1. [W01](https://mokraj.github.io/mokraj/W01-Jarkom.pdf)
