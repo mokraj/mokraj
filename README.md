@@ -19,6 +19,7 @@ emosewA eB esaelP
 4. [Textbook : Computer Networks James Kurose](https://mokraj.github.io/mokraj/textbook.pdf)
 5. [VLSM Subnetting Calculator (vlsmcalc)](http://www.vlsmcalc.com/)
 6. [Subnetting Calculator (https://subnettingpractice.com/vlsm.html)](https://subnettingpractice.com/vlsm.html)
+7. [Jarkom2023](https://ristek.link/jarkom2023)
 
 
 ## Slides
