@@ -14,6 +14,7 @@ emosewA eB esaelP
 11. [Q05 Quanta](https://mokraj.github.io/mokraj/Merged-Quiz-Quanta-LinkLayer.pdf)
 12. [Q07 : Security](https://mokraj.github.io/mokraj/Quiz07Security.pdf)
 13. [Kuis 7 & 8 Quanta](https://mokraj.github.io/mokraj/Kuis7&8Quanta.pdf)
+14. [Kuis 7 Semua Kelas](https://mokraj.github.io/mokraj/Kuis7SemuaKelas.pdf)
 
 ## Others
 1. [Solusi Kuis 1 2019](https://mokraj.github.io/mokraj/Kuis-1-Jarkom-A-2019.pdf)
@@ -23,6 +24,7 @@ emosewA eB esaelP
 5. [VLSM Subnetting Calculator (vlsmcalc)](http://www.vlsmcalc.com/)
 6. [Subnetting Calculator (https://subnettingpractice.com/vlsm.html)](https://subnettingpractice.com/vlsm.html)
 7. [Jarkom2023](https://ristek.link/jarkom2023)
+8. [ChatGPT](https://chat.openai.com/chat)
 
 
 ## Slides
