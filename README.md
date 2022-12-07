@@ -12,6 +12,7 @@ emosewA eB esaelP
 9. [Q04](https://mokraj.github.io/mokraj/Q04.pdf)
 10. [Q05 2022](https://mokraj.github.io/mokraj/Quiz05.pdf)
 11. [Q05 Quanta](https://mokraj.github.io/mokraj/Merged-Quiz-Quanta-LinkLayer.pdf)
+12. [Q07 : Security](https://mokraj.github.io/mokraj/Quiz07Security.pdf)
 
 ## Others
 1. [Solusi Kuis 1 2019](https://mokraj.github.io/mokraj/Kuis-1-Jarkom-A-2019.pdf)
